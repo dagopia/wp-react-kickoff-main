@@ -1,0 +1,15 @@
+
+
+<!-- I structured my folder like this; then, I will copy necessary files for the time.
+
+1, I will create a PHP file for defining plugin constants: wp-react-dashboard.php.
+2, I will create a class file to create the admin dashboard page: class-create-admin-menu.
+3,I will create a "component" folder in my "src" directory and place the Dashboard React component inside the "component" folder.
+4,Run npm install.
+5,Create an index.js file for creating the React component by ID.
+6,Create an app.js file that calls my component.
+7,Run npm run build.
+8,Once the dist files are generated, I will start my server.
+so This is all Thanks !
+
+ -->
